@@ -1,0 +1,48 @@
+.ins{
+  text-align: center;
+color:black;
+
+}
+body{
+  background-image: url('plage.jpg');
+  background-image: cover;
+  color:black;
+}
+input{
+  border-radius: 13%;
+  border-color: 1px solid black;
+  cursor:pointer;
+
+
+
+}
+input[type=text] {
+ color:black;
+ font-weight: bold;
+text-align: center;
+background-color: #aaa;
+border-color: 1px solid black;
+ }
+
+input[type=email] {
+ color:black;
+ font-weight: bold;
+text-align: center;
+background-color: #aaa;
+border-color: 1px solid black;
+ }
+input[type=submit] {
+ color:#006023;
+ font-weight: bold;
+text-align: center;
+background-color: #aaa;
+border-color: 1px solid black;
+}
+select {
+ color:#006023;
+ font-weight: bold;
+text-align: center;
+color:black;
+border-color: 1px solid black;
+background-color: #aaa
+}

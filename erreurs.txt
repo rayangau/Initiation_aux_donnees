@@ -1,0 +1,3 @@
+ //pour faire remonter des erreurs
+  // $bdd->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+  // $bdd->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
